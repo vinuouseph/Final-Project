@@ -2,6 +2,12 @@ Final Project
 
 This is a graded project which is a part of Getting Started with Git and GitHub course.
 
+
+
+## Owner
+
+This project is done by Vinu Ouseph
+
 ## How to Use
 
 1. Clone the repository.
